@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a | grep -E '^[0-9a-zA-Z]' | sort | tr '\n' ',' | sed 's/,$/\n/'
