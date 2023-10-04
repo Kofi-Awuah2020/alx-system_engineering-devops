@@ -1,2 +1,2 @@
 #!/bin/bash
-typeset -i16 DECIMAL
+typeset -i16 $DECIMAL
