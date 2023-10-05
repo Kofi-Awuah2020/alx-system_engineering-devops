@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 1 | sed -n 1~3p
+cat -n | grep [13579] | cut -f2-
