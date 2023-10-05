@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n 1 | sed -n 1~3p
