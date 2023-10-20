@@ -1,1 +1,1 @@
-The resources on this one are scant
+Shell, init files, variables and expansions
